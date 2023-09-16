@@ -1,6 +1,8 @@
 # NFC를 이용한 정품인증시스템 앱 - Unique Track
 
 ### 💡NFC 태그를 스캔하여 정품을 등록, 조회하며 제품의 소유권을 양도하는 정품인증시스템 앱
+![image](https://github.com/songu1/Unique_Track/assets/75112062/fe37473d-7938-4f93-84b8-87badda97f4c)
+
 
 ## 📀 프로젝트 내용
 
